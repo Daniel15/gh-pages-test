@@ -4,5 +4,5 @@ var gulp = require('gulp');
 gulp.task('deploy', function () {
   gulp
     .src('./dist/**/*')
-    .pipe(deploy(options));
+    .pipe(deploy({}));
 });
