@@ -1,0 +1,23 @@
+{
+  "name": "gh-pages-test",
+  "version": "0.0.0",
+  "description": "gh-pages-test =============",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Daniel15/gh-pages-test.git"
+  },
+  "author": "Daniel Lo Nigro <daniel@dan.cx> (http://dan.cx/)",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/Daniel15/gh-pages-test/issues"
+  },
+  "homepage": "https://github.com/Daniel15/gh-pages-test",
+  "devDependencies": {
+    "gulp": "~3.8.7",
+    "gulp-gh-pages": "~0.3.3"
+  }
+}
